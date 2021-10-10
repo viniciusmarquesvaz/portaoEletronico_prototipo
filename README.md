@@ -1,5 +1,7 @@
 # portaoEletronico_prototipo
 
+##Segue abaixo alguns requisitos:
+
 
 - comando feito a partir de uma botoeira, botão_A abre botão_B fecha;
 - os botões só podem funcionar quando estiverem no final do ciclo;
