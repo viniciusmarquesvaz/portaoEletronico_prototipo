@@ -1,6 +1,6 @@
 # portaoEletronico_prototipo
 
-##Segue abaixo alguns requisitos:
+## Segue abaixo alguns requisitos:
 
 
 - comando feito a partir de uma botoeira, botão_A abre botão_B fecha;
